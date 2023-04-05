@@ -31,10 +31,10 @@
 <p align="center">
 <h3 align="left">Contributions:</h3> 
 
-[![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](#)
+[![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItzTrooper009&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](#)
 </p>
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzTrooper009&show_icons=true&theme=gruvbox)](https://github.com/ItzTrooper009/github-readme-stats)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzTrooper009&show_icons=true)](https://github.com/ItzTrooper009/github-readme-stats)
 
 
 <!--
