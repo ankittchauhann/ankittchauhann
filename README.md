@@ -25,14 +25,16 @@
 <a href="https://www.facebook.com/ankitt0007/" target="_blank"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=social&logo=facebook" alt="guptaashwanee" /></a>
 </p>
 
-  
-<h3 align="left">Contributions:</h3>
+ 
 
 <p align="center">
+<h3 align="left">Contributions:</h3>
 
 [![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](#)
 </p>
-</p>
+
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzTrooper009)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ItzTrooper009/ItzTrooper009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
