@@ -5,6 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ankit+Singh+Chouhan)
 
 <h3>Front-End UI Developer</h3>
+<p>Passionate Front-End UI Developer eager to learn new technologies.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -28,12 +29,12 @@
  
 
 <p align="center">
-<h3 align="left">Contributions:</h3>
+<h3 align="left">Contributions:</h3> 
 
 [![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaashwanee&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](#)
 </p>
 
-[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzTrooper009)](https://github.com/anuraghazra/github-readme-stats)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzTrooper009&show_icons=true&theme=gruvbox)](https://github.com/ItzTrooper009/github-readme-stats)
 
 
 <!--
