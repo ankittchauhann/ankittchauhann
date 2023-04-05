@@ -39,8 +39,8 @@
 <h3 align="left">Github Stats:</h3>
 <div>
 <p align="center">
-  <img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=ItzTrooper009&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTrooper009&layout=compact" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ItzTrooper009&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTrooper009&layout=compact" />
 </p>
 </div>
 
