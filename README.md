@@ -36,6 +36,7 @@
 
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzTrooper009&show_icons=true)](https://github.com/ItzTrooper009/github-readme-stats)
 
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ItzTrooper009&theme=gruvbox%22%20alt=%22ItzTrooper009%22" alt="guptaashwanee" /></a> </p>
 
 <!--
 **ItzTrooper009/ItzTrooper009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
