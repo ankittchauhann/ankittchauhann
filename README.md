@@ -31,7 +31,7 @@
 <p align="center">
 <h3 align="left">Contributions:</h3> 
 
-[![Ankit's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ItzTrooper009&currStreakNum=2FD3EB&fire=red&sideLabels=F00)](#)
+[![Ankit's GitHub Streak](https://streak-stats.demolab.com/?user=ItzTrooper009)](#)
 </p>
 
 
