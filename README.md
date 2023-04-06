@@ -47,7 +47,7 @@
 <h3 align="left">Coding Stats:</h3>
 <p align="center">
 
-[![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann)](#)
+[![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann)](#)
 </p>
 
 
