@@ -46,7 +46,7 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ItzTrooper009&theme=gruvbox%22%20alt=%22ItzTrooper009%22" alt="ItzTrooper009" /></a> </p>
 
-<img src="https://wakatime.com/share/@ItzTrooper009/06206feb-5d40-4e3d-880e-fe5279027dab.svg"></img>
+<img src="https://wakatime.com/share/@ankittchouhann/6c09e127-563c-4ccf-8a9b-f6b12099cb11.svg"></img>
 
 <!--
 **ItzTrooper009/ItzTrooper009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
