@@ -44,6 +44,13 @@
 </p>
 </div>
 
+<h3 align="left">Coding Stats:</h3>
+<p align="center">
+
+[![Ashwanee's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann)](#)
+</p>
+
+
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ItzTrooper009&theme=gruvbox%22%20alt=%22ItzTrooper009%22" alt="ItzTrooper009" /></a> </p>
 
 <img src="https://wakatime.com/share/@ankittchouhann/6c09e127-563c-4ccf-8a9b-f6b12099cb11.svg"></img>
