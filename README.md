@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ankit+Singh+Chouhan)
 
-<img src="https://wakatime.com/badge/user/889ccece-93f9-469f-9a0a-ed20ea754477.svg"></img>
+<img height="25px" src="https://wakatime.com/badge/user/889ccece-93f9-469f-9a0a-ed20ea754477.svg"></img>
 
 <h3>Front-End UI Developer</h3>
 <p>Passionate Front-End UI Developer eager to learn new technologies.</p>
