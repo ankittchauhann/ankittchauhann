@@ -1,6 +1,6 @@
-### Welcome 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Welcome+👋)
 
-<img src="https://usagif.com/wp-content/uploads/gifs/hello-34.gif"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=011F40&width=435&lines=Ankit+Singh+Chouhan)
 
