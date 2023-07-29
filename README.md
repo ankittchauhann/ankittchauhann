@@ -54,8 +54,6 @@
 <p align="center">
 
 [![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann)](#)
- 
- <img  height="400" src="https://wakatime.com/share/@ankittchouhann/923edb49-2eed-409f-ada1-e232c23beb47.svg"><img> 
 
 </p>
 
