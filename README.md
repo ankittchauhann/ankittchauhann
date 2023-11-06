@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-singh-chouhan-382459126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=social&logo=linkedin" alt="ItzTrooper009" /></a>
 <a href="https://www.instagram.com/itz_trooper_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-brightgreen?style=social&logo=instagram" alt="ItzTrooper009" /></a>
-<a href="https://github.com/ItzTrooper009" target="_blank"><img src="https://img.shields.io/badge/Github-brightgreen?style=social&logo=github" alt="ItzTrooper009" /></a>
+<a href="https://github.com/ankittchauhann" target="_blank"><img src="https://img.shields.io/badge/Github-brightgreen?style=social&logo=github" alt="ankittchauhann" /></a>
 <a href="https://twitter.com/Itz_Trooper_" target="_blank"><img src="https://img.shields.io/badge/Twitter-brightgreen?style=social&logo=twitter" alt="ItzTrooper009" /></a>
 <a href="https://www.facebook.com/ankitt0007/" target="_blank"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=social&logo=facebook" alt="ItzTrooper009" /></a>
 </p>
@@ -37,7 +37,7 @@
 <p align="center">
 <h3 align="left">Contributions:</h3> 
 
-[![Ankit's GitHub Streak](https://streak-stats.demolab.com/?user=ItzTrooper009)](#)
+[![Ankit's GitHub Streak](https://streak-stats.demolab.com/?user=ankittchauhann)](#)
 </p>
 
 
@@ -45,8 +45,8 @@
 <h3 align="left">Github Stats:</h3>
 <div>
 <p align="center">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ItzTrooper009&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzTrooper009&layout=compact" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ankittchauhann&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittchauhann&layout=compact" />
 </p>
 </div>
 
@@ -58,7 +58,7 @@
 </p>
 
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ItzTrooper009&theme=gruvbox%22%20alt=%22ItzTrooper009%22" alt="ItzTrooper009" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ankittchauhann&theme=gruvbox%22%20alt=%22ItzTrooper009%22" alt="ItzTrooper009" /></a> </p>
 
 <img src="https://wakatime.com/share/@ankittchouhann/6c09e127-563c-4ccf-8a9b-f6b12099cb11.svg"></img>
 
