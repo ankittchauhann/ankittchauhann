@@ -9,19 +9,11 @@
 <h3>Front-End UI Developer</h3>
 <p>Passionate Front-End UI Developer eager to learn new technologies.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/B/bootstrap-5-logo-85A1F11F4F-seeklogo.com.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png"></code>
-<code><img height="20" src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/npm/npm.png"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="20" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMw8DUTyzgUWG51yk2SV8viltl3V3EFUlXRnOGKTRGGQ&s"></code>
+## 🛠️ Languages and Tools I Use
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,redux,docker,npm" /><br>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
