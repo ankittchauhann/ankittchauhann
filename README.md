@@ -16,25 +16,28 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
 <a href="https://www.linkedin.com/in/ankit-singh-chouhan-382459126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=social&logo=linkedin" alt="ItzTrooper009" /></a>
 <a href="https://www.instagram.com/nam_ankitt/" target="_blank"><img src="https://img.shields.io/badge/Instagram-brightgreen?style=social&logo=instagram" alt="ItzTrooper009" /></a>
 <a href="https://github.com/ankittchauhann" target="_blank"><img src="https://img.shields.io/badge/Github-brightgreen?style=social&logo=github" alt="ankittchauhann" /></a>
 <a href="https://twitter.com/Itz_Trooper_" target="_blank"><img src="https://img.shields.io/badge/Twitter-brightgreen?style=social&logo=twitter" alt="ItzTrooper009" /></a>
 <a href="https://www.facebook.com/ankitt0007/" target="_blank"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=social&logo=facebook" alt="ItzTrooper009" /></a>
-</p>
+</div>
 
  
 
 <p align="center">
 <h3 align="left">Contributions:</h3> 
+<div align="center">
 
 [![Ankit's GitHub Streak](https://streak-stats.demolab.com/?user=ankittchauhann&theme=dark)](#)
+</div>
 </p>
 
 
- 
+ <div align="center">
 <h3 align="left">Github Stats:</h3>
+ </div>div>
 <div>
 <p align="center">
   <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ankittchauhann&theme=dark&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
