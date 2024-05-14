@@ -45,12 +45,14 @@
 </p>
 </div>
 
-<h3 align="left">Coding Stats:</h3>
 <p align="center">
+<h3 align="left">Coding Stats:</h3> 
+<div align="center">
 
-[![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann&theme=dark)](#)
-
+[![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann&theme=dark)](#)</div>
 </p>
+
+
 
 
 <div align="left"> <a href="#"><img  src="https://github-profile-trophy.vercel.app/?username=ankittchauhann&theme=gruvbox%22%20alt=%22ankittchauhann%22" alt="ankittchauhann" /></a> </div>
