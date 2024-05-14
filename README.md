@@ -28,26 +28,25 @@
 
 <p align="center">
 <h3 align="left">Contributions:</h3> 
-<div align="center">
-
-[![Ankit's GitHub Streak](https://streak-stats.demolab.com/?user=ankittchauhann&theme=dark)](#)
+<div align="left">
+<img height="180" src="https://streak-stats.demolab.com/?user=ankittchauhann&theme=dark" />
 </div>
 </p>
 
 
  <div align="center">
 <h3 align="left">Github Stats:</h3>
- </div>div>
+ </div>
 <div>
 <p align="center">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ankittchauhann&theme=dark&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
+  <img height="180"  align="left" src="https://github-readme-stats.vercel.app/api?username=ankittchauhann&theme=dark&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittchauhann&theme=dark&layout=compact" />
 </p>
 </div>
 
 <p align="center">
 <h3 align="left">Coding Stats:</h3> 
-<div align="center">
+<div align="left">
 
 [![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann&theme=dark)](#)</div>
 </p>
