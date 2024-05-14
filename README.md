@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=FF4500&width=435&lines=Welcome+👋)
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N0eHN3dGo5aDA0d3owNnNzcGN3NWthcWVwMm16MHY2MmNnNzhvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KA593kO0JvXMs/giphy.gif"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=FF4500&width=435&lines=Ankit+Singh+Chouhan)
 
