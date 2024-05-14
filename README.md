@@ -50,12 +50,14 @@
 
 [![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann&theme=dark)](#)</div>
 </p>
+<h3 align="left">Contributions:</h3>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ankittchauhann/ankittchauhann/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
 
-
-
-
+<!--  
 <div align="left"> <a href="#"><img  src="https://github-profile-trophy.vercel.app/?username=ankittchauhann&theme=gruvbox%22%20alt=%22ankittchauhann%22" alt="ankittchauhann" /></a> </div>
 
-<img src="https://wakatime.com/share/@ankittchouhann/6c09e127-563c-4ccf-8a9b-f6b12099cb11.svg"></img>
+<img src="https://wakatime.com/share/@ankittchouhann/6c09e127-563c-4ccf-8a9b-f6b12099cb11.svg"></img> 
+-->
 
 
