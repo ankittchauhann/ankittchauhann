@@ -6,8 +6,8 @@
 
 <img height="25px" src="https://wakatime.com/badge/user/889ccece-93f9-469f-9a0a-ed20ea754477.svg"></img>
 
-<h3>Front-End UI Developer</h3>
-<p>Passionate Front-End UI Developer eager to learn new technologies.</p>
+<h3>UI Developer</h3>
+<p>Passionate UI Developer eager to learn new technologies.</p>
 
 ## 🛠️ Languages and Tools I Use
 <div align="center">
@@ -29,7 +29,7 @@
 <p align="center">
 <h3 align="left">Contributions:</h3> 
 
-[![Ankit's GitHub Streak](https://streak-stats.demolab.com/?user=ankittchauhann)](#)
+[![Ankit's GitHub Streak](https://streak-stats.demolab.com/?user=ankittchauhann&theme=dark)](#)
 </p>
 
 
@@ -37,34 +37,21 @@
 <h3 align="left">Github Stats:</h3>
 <div>
 <p align="center">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ankittchauhann&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittchauhann&layout=compact" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=ankittchauhann&theme=dark&show_icons=true&count_private=true&include_all_commits=true&locale=en" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittchauhann&theme=dark&layout=compact" />
 </p>
 </div>
 
 <h3 align="left">Coding Stats:</h3>
 <p align="center">
 
-[![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann)](#)
+[![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann&theme=dark)](#)
 
 </p>
 
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ankittchauhann&theme=gruvbox%22%20alt=%22ItzTrooper009%22" alt="ItzTrooper009" /></a> </p>
+<div align="left"> <a href="#"><img  src="https://github-profile-trophy.vercel.app/?username=ankittchauhann&theme=gruvbox%22%20alt=%22ankittchauhann%22" alt="ankittchauhann" /></a> </div>
 
 <img src="https://wakatime.com/share/@ankittchouhann/6c09e127-563c-4ccf-8a9b-f6b12099cb11.svg"></img>
 
-<!--
-**ItzTrooper009/ItzTrooper009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
