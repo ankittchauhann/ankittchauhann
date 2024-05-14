@@ -51,7 +51,7 @@
 [![Ankit's wakatime coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ankittchouhann&theme=dark)](#)</div>
 </p>
 <h3 align="left">Contributions:</h3>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ankittchauhann/ankittchauhann/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ankittchauhann/ankittchauhann/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 
 <!--  
