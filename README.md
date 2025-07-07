@@ -9,6 +9,10 @@
 <h3>UI Developer</h3>
 <p>Passionate UI Developer eager to learn new technologies.</p>
 
+- **Active Projects:**
+  - [anscer-fleet](https://github.com/ankittchauhann/anscer-fleet)
+  - [hono-server](https://github.com/ankittchauhann/hono-server)
+
 ## 🛠️ Languages and Tools I Use
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
