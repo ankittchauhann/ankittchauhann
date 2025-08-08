@@ -50,10 +50,11 @@ Backend API powering fleet management:
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,typescript,vite,mongodb,docker,redux,tanstack,express,nodejs,figma,tailwind,github,git,socketio" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,vite,mongodb,docker,redux,express,nodejs,figma,tailwind,github,git,socketio" />
     <br>
     <img src="https://skillicons.dev/icons?i=mui,bootstrap,html,css,vscode,npm" />
     <img height="45" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" />
+    <img height="45" src="./assets/tanstackLogo.png" alt="TanStack" />
 </div>
 
 ---
