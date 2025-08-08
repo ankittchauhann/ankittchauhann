@@ -6,8 +6,13 @@
 
 <img height="25px" src="https://wakatime.com/badge/user/889ccece-93f9-469f-9a0a-ed20ea754477.svg"></img>
 
-<h3>UI Developer</h3>
-<p>Passionate UI Developer eager to learn new technologies.</p>
+## 👋 About Me
+
+Hi, I'm Ankit – a passionate UI developer and fullstack enthusiast.
+
+I specialize in building real-time, scalable web applications and APIs using React, TypeScript, and modern backend technologies. My work spans robotics fleet management, advanced query systems, and robust authentication—all driven by a love for clean design and efficient code.
+
+Always exploring new tools, sharing knowledge, and striving for production-grade solutions.
 
 ## 🚀 Active Projects
 
