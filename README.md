@@ -39,14 +39,33 @@ Backend API powering fleet management:
 - **Zod validation, functional controllers, modular architecture**
 - **Comprehensive docs & migration scripts**
 
+### [Bhagwat-Gita](https://github.com/ankittchauhann/Bhagwat-Gita)
+Immersive spiritual reading app featuring:
+- **React 19 + TypeScript + Vite**
+- **TanStack Router** (file-based routing)
+- **Zustand** (fast state management)
+- **ShadCN UI & Tailwind 4** (modern, accessible design)
+- **Dual API strategy**: Vercel serverless functions & RapidAPI fallback (Bhagavad Gita API v2)
+- **Rich content**: Authentic Sanskrit verses, word meanings, transliteration, multiple translations (English/Hindi), scholarly commentaries
+- **Spiritual dashboard**: Sacred color palette, Devanagari fonts, inspirational quotes, theme toggle
+- **Comprehensive navigation**: All 18 chapters, smart search, dynamic chapter/verse views
+- **Advanced error handling**: Retry logic, network monitoring, descriptive feedback
+- **Mobile-first, glass morphism UI**, accessibility-first, audio-ready for future Sanskrit recitation
+- **Production-ready**: Bun, Biome, Docker, Vercel/Netlify deploy, environment configs
+- **Roadmap**: Audio playback, bookmarks, community features, multi-language support
+
+**Live Demo:** [bhagwat-gita-iota.vercel.app](https://bhagwat-gita-iota.vercel.app)  
+
 ## ✨ Highlights
 
-- Real-time data (Socket.IO, SSE)
-- Enterprise-grade API queries (filter, sort, paginate, project)
-- Session-based modern authentication (better-auth)
-- Robust state management (Zustand, Redux, TanStack)
-- Production-ready: Docker, error handling, validation
-- Fully documented, testable, and modular codebases
+- Real-time data flows (Socket.IO, SSE, RapidAPI live integration)
+- Enterprise-grade API queries (filter, sort, paginate, project, dual-strategy endpoints)
+- Session-based, modern authentication (better-auth, secure cookies, role-based access)
+- Robust state management (Zustand, Redux Toolkit, TanStack, scalable store architectures)
+- Production-ready: Docker, error handling, validation, retry logic, network monitoring
+- Fully documented, testable, and modular codebases with clear architecture
+- Accessibility-first and mobile-responsive designs (spiritual color palettes, glass morphism UI, proper contrast ratios)
+- Advanced error handling and fallback strategies (automatic retry logic, CORS resolution, network status tracking)
 
 
 
