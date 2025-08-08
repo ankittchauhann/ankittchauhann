@@ -9,23 +9,62 @@
 <h3>UI Developer</h3>
 <p>Passionate UI Developer eager to learn new technologies.</p>
 
-- **Active Projects:**
-  - [anscer-fleet](https://github.com/ankittchauhann/anscer-fleet)
-  - [hono-server](https://github.com/ankittchauhann/hono-server)
+## 🚀 Active Projects
 
-## 🛠️ Languages and Tools I Use
+### [anscer-fleet](https://github.com/ankittchauhann/anscer-fleet)
+Fleet management system featuring:
+- **React + TypeScript + Vite**
+- **TanStack Router** (type-safe routing)
+- **Zustand & Redux Toolkit** (state management)
+- **shadcn/ui** (modern UI components)
+- **Server-Sent Events (SSE)** for real-time robot updates
+- **Role-based protected routes**
+- **Session-based authentication** via better-auth
+- **Optimistic UI and error handling**
+- **Mobile-first design**
+
+### [hono-server](https://github.com/ankittchauhann/hono-server)
+Backend API powering fleet management:
+- **Hono.js** (high-performance backend)
+- **TypeScript everywhere**
+- **Socket.IO**: Real-time broadcasting (robot data every 2s)
+- **Better-auth**: Secure session cookies, role-based access
+- **MongoDB (Dockerized)**
+- **Advanced query parser**: MongoDB-style operators, smart pagination, projection, sorting
+- **Zod validation, functional controllers, modular architecture**
+- **Comprehensive docs & migration scripts**
+
+## ✨ Highlights
+
+- Real-time data (Socket.IO, SSE)
+- Enterprise-grade API queries (filter, sort, paginate, project)
+- Session-based modern authentication (better-auth)
+- Robust state management (Zustand, Redux, TanStack)
+- Production-ready: Docker, error handling, validation
+- Fully documented, testable, and modular codebases
+
+
+
+---
+
+## 🛠️ Technologies & Tools
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,redux,docker,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=react,typescript,vite,mongodb,docker,redux,tanstack,zustand,express,nodejs,figma,tailwind,github,git,socketio" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mui,bootstrap,html,css,vscode,npm" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 📫 Connect with me
+
 <div align="left">
-<a href="https://www.linkedin.com/in/ankit-singh-chouhan-382459126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=social&logo=linkedin" alt="ItzTrooper009" /></a>
-<a href="https://www.instagram.com/nam_ankitt/" target="_blank"><img src="https://img.shields.io/badge/Instagram-brightgreen?style=social&logo=instagram" alt="ItzTrooper009" /></a>
-<a href="https://github.com/ankittchauhann" target="_blank"><img src="https://img.shields.io/badge/Github-brightgreen?style=social&logo=github" alt="ankittchauhann" /></a>
-<a href="https://twitter.com/Itz_Trooper_" target="_blank"><img src="https://img.shields.io/badge/Twitter-brightgreen?style=social&logo=twitter" alt="ItzTrooper009" /></a>
-<a href="https://www.facebook.com/ankitt0007/" target="_blank"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=social&logo=facebook" alt="ItzTrooper009" /></a>
+<a href="https://www.linkedin.com/in/ankit-singh-chouhan-382459126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-brightgreen?style=social&logo=linkedin" /></a>
+<a href="https://www.instagram.com/nam_ankitt/" target="_blank"><img src="https://img.shields.io/badge/Instagram-brightgreen?style=social&logo=instagram" /></a>
+<a href="https://github.com/ankittchauhann" target="_blank"><img src="https://img.shields.io/badge/Github-brightgreen?style=social&logo=github" /></a>
+<a href="https://twitter.com/Itz_Trooper_" target="_blank"><img src="https://img.shields.io/badge/Twitter-brightgreen?style=social&logo=twitter" /></a>
+<a href="https://www.facebook.com/ankitt0007/" target="_blank"><img src="https://img.shields.io/badge/Facebook-brightgreen?style=social&logo=facebook" /></a>
 </div>
 
  
