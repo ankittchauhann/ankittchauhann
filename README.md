@@ -110,7 +110,7 @@ Immersive spiritual reading app featuring:
 <p
   <a href="#" target="_blank"><img
 			src="https://github-readme-stats-new-umber.vercel.app/api?username=ankittchauhann&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-			alt="guptaashwanee" /></a>
+			alt="ankittchauhann" /></a>
 </p>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittchauhann&theme=dark&layout=compact" />
 </div>
